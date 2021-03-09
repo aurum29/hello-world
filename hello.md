@@ -1,12 +1,23 @@
 # hello git
 
-## git 명령어 요약
+## git 명령어 요약1
 
 - clone : 원격 저장소 복사
 - add: 스테이지 영역에 작업 파일 추가
 - commit: 세이브, 스테이지 영역의 파일들을 가지고 커밋(=세이브)를 만들 수 있다.
 - push: 원격 저장소에 커밋을 업로드한다. 
 - checkout: 수정된 내용을 다시 되돌린다. (코드뭉치 버리기)
+
+## git 명령어 요약2
+
+- git init : git 생성하기
+- git pull : git 서버에서 최신 코드 받아와 merge
+- git add : 커밋에 파일의 변경 사항을 포함
+- git commit -m "커밋 메시지" : 커밋 생성
+- git status : 파일 상태 확인
+
+https://velog.io/@delilah/GitHub-Git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C
+
 
 ## 브랜치 변경하기
 - 브랜치: 기존 내용을 유지한 체 새로운 내용을 추가하고 싶을 때 사용한다.
