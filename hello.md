@@ -1,5 +1,17 @@
 # hello git
 
+## git 명령어 요약0
+
+- git init
+- git reomte add origin <repository address>
+- git pull origin master
+- git status
+- git add .
+- git commit -m "message"
+- git push origin (master)
+- git pull origin master
+
+
 ## git 명령어 요약1
 
 - clone : 원격 저장소 복사
